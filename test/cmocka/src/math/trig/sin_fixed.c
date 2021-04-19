@@ -133,6 +133,7 @@ static void test_math_trig_sin_fixed(void **state)
 	}
 }
 
+
 int main(void)
 {
 	const struct CMUnitTest tests[] = {
